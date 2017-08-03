@@ -32,6 +32,6 @@ All students should submit their project(s) to the competition via Devpost. To s
 
 ## Some notes
 
-Everyone should submit their Summer Academy projects! **While including a demo video and/or links to your launch product is not required, including those will increase your visibility and likelihood of winning the competition. You can submit now without one and add the extra resources later!**
+Everyone should submit their Summer Academy projects! **While including a demo video and/or links to your launched product is not required, including these will increase your project's visibility and likelihood of winning the competition. You can submit now without them and edit your submission to add them later!**
 
 See [this page](https://support.apple.com/en-us/HT201066#record) for information on how to record from your iOS device.
